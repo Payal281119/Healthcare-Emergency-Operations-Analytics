@@ -27,17 +27,17 @@ Design an interactive Power BI solution that helps healthcare stakeholders:
 
 # 📊 Dashboard Pages
 
-* Executive Overview Page Screenshot
-  
-  ![https://github.com/Payal281119/Healthcare-Emergency-Operations-Analytics/blob/main/Overview.png]
-  
-* Operations Analytics Page Screenshot
-  
-  ![https://github.com/Payal281119/Healthcare-Emergency-Operations-Analytics/blob/main/Operations.png]
-  
-* Finance & Workforce Analytics Page Screenshot
-  
-  ![https://github.com/Payal281119/Healthcare-Emergency-Operations-Analytics/blob/main/Finance.png]
+## Executive Overview
+
+![Executive Overview](Overview.png)
+
+## Operations Analytics
+
+![Operations Analytics](Operations.png)
+
+## Finance & Workforce Analytics
+
+![Finance & Workforce Analytics](Finance.png)
 
 ## 🏥 1. Executive Overview
 
